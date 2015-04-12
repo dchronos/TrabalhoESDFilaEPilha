@@ -1,0 +1,16 @@
+Simulacao na hora: 14 com 5 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 6 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 7 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 8 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 9 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 10 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 11 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 12 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 13 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 14 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 15 caixas Nenhuma configuracao satisfatoria 
+Simulacao na hora: 14 com 16 caixas tempo de espera máximo em minutos: 8
+Simulacao na hora: 14 com 17 caixas tempo de espera máximo em minutos: 5
+Simulacao na hora: 14 com 18 caixas tempo de espera máximo em minutos: 3
+Simulacao na hora: 14 com 19 caixas tempo de espera máximo em minutos: 0
+Simulacao na hora: 14 com 20 caixas tempo de espera máximo em minutos: 5
